@@ -1,0 +1,20 @@
+[1.332s] Invoking command in '/home/keime/ros2_basic_ws/build/my_pkg': PYTHONPATH=/home/keime/ros2_basic_ws/build/my_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/keime/ros2_basic_ws/install/my_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/keime/ros2_basic_ws/build/my_pkg/build --no-deps symlink_data --force
+[1.914s] running develop
+[2.299s] running egg_info
+[2.300s] writing my_pkg.egg-info/PKG-INFO
+[2.301s] writing dependency_links to my_pkg.egg-info/dependency_links.txt
+[2.301s] writing entry points to my_pkg.egg-info/entry_points.txt
+[2.301s] writing requirements to my_pkg.egg-info/requires.txt
+[2.301s] writing top-level names to my_pkg.egg-info/top_level.txt
+[2.305s] reading manifest file 'my_pkg.egg-info/SOURCES.txt'
+[2.306s] writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+[2.309s] running build_ext
+[2.310s] Creating /home/keime/ros2_basic_ws/install/my_pkg/lib/python3.10/site-packages/my-pkg.egg-link (link to .)
+[2.312s] Installing listener script to /home/keime/ros2_basic_ws/install/my_pkg/lib/my_pkg
+[2.312s] Installing talker script to /home/keime/ros2_basic_ws/install/my_pkg/lib/my_pkg
+[2.313s] 
+[2.313s] Installed /home/keime/ros2_basic_ws/build/my_pkg
+[2.313s] running symlink_data
+[2.314s] symbolically linking /home/keime/ros2_basic_ws/build/my_pkg/resource/my_pkg -> /home/keime/ros2_basic_ws/install/my_pkg/share/ament_index/resource_index/packages
+[2.314s] symbolically linking /home/keime/ros2_basic_ws/build/my_pkg/package.xml -> /home/keime/ros2_basic_ws/install/my_pkg/share/my_pkg
+[2.369s] Invoked command in '/home/keime/ros2_basic_ws/build/my_pkg' returned '0': PYTHONPATH=/home/keime/ros2_basic_ws/build/my_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/keime/ros2_basic_ws/install/my_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/keime/ros2_basic_ws/build/my_pkg/build --no-deps symlink_data --force
