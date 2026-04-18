@@ -1,5 +1,5 @@
 w331au
-ros2 run my_pkg talker.py
+ros2 run my_pkg talker
  source install/setup.bash
  ~/ros2_basic_ws
  setup.py
